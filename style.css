@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+.page-content {
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+}
+a {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: auto;
+}
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+footer {
+    margin-top: 20px;
+    font-style: italic;
+}
